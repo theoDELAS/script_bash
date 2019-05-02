@@ -4,5 +4,5 @@
 
 ## Télécharger la bande son d'une vidéo Youtube
 
-## Automatiser une sauvegarde  
-Script automatisant une sauvegarde "complète" d'une arborescence passé en argument, et des sauvegardes incrémentals tous les jours
+## Faire une sauvegarde d'un dossier
+
