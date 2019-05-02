@@ -1,7 +1,7 @@
 # Projet d'école : script_bash
 
-Réalisation de 3 script pour notre cours de Linux.  
-Pour les réaliser, j'ai fait les différentes fonctionnalités de chaque script une à une en commençant de la plus simple a la plus compliqué, en les testant à chaque fois avant de passer à la suivante.
+Réalisation de 3 scripts pour notre cours de Linux.  
+Pour les réaliser, j'ai réalisé les différentes fonctionnalités de chaque script une à une en commençant de la plus simple a la plus compliqué, en les testant à chaque fois avant de passer à la suivante.
 
 ## Jeu du plus ou moins
 
