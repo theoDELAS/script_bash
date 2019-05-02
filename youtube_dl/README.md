@@ -8,4 +8,6 @@ Pour utiliser ce script, vous devez au préalable télécharger youtube-dl. Pour
 `hash -r`  
 
 Vous pouvez maintenant utiliser le scrip. Il suffit de rentrer l'URL de la vidéo Youtube dont vous voulez télécharger la bande son.  
-Celle-ci se téléchargement dans le dossier dans lequel vous êtes lors de l'utilisation du script.
+Celle-ci se téléchargement dans le dossier dans lequel vous êtes lors de l'utilisation du script.  
+Pour lancer le script, placez vous dans dans l'invite de commande dans le dossier ou vous l'avez téléchargé et faites la commande suivante :  
+`./dl.sh`
